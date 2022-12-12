@@ -1,0 +1,368 @@
+12/12/22 11:24:46:715: INICIANDO VARREDURA 
+12/12/22 11:24:46:718: PASTA: C:\Teste\ 
+12/12/22 11:24:46:718: PASTA: C:\Teste\template 
+12/12/22 11:24:46:746: VARREDURA CONCLUÍDA 
+12/12/22 11:24:46:747: 18 ARQUIVOS ENCONTRADOS PARA DELETAR 
+12/12/22 11:24:46:751: INICIANDO APAGAMENTOS DE 18 ARQUIVOS 
+ 
+12/12/22 11:24:46:753: [TypeError: path must be a string] 
+12/12/22 11:24:46:755: C:\Teste\teste - Copia (10).txt - (ERRO) 
+12/12/22 11:24:46:756: [TypeError: path must be a string] 
+12/12/22 11:24:46:756: C:\Teste\teste - Copia (11).txt - (ERRO) 
+12/12/22 11:24:46:764: [TypeError: path must be a string] 
+12/12/22 11:24:46:766: C:\Teste\teste - Copia (12).txt - (ERRO) 
+12/12/22 11:24:46:766: [TypeError: path must be a string] 
+12/12/22 11:24:46:769: C:\Teste\teste - Copia (13).txt - (ERRO) 
+12/12/22 11:24:46:771: [TypeError: path must be a string] 
+12/12/22 11:24:46:772: C:\Teste\teste - Copia (14).txt - (ERRO) 
+12/12/22 11:24:46:774: [TypeError: path must be a string] 
+12/12/22 11:24:46:774: C:\Teste\teste - Copia (15).txt - (ERRO) 
+12/12/22 11:24:46:776: [TypeError: path must be a string] 
+12/12/22 11:24:46:778: C:\Teste\teste - Copia (16).txt - (ERRO) 
+12/12/22 11:24:46:780: [TypeError: path must be a string] 
+12/12/22 11:24:46:783: C:\Teste\teste - Copia (17).txt - (ERRO) 
+12/12/22 11:24:46:784: [TypeError: path must be a string] 
+12/12/22 11:24:46:788: C:\Teste\teste - Copia (18).txt - (ERRO) 
+12/12/22 11:24:46:790: [TypeError: path must be a string] 
+12/12/22 11:24:46:790: C:\Teste\teste - Copia (19).txt - (ERRO) 
+12/12/22 11:24:46:791: [TypeError: path must be a string] 
+12/12/22 11:24:46:793: C:\Teste\teste - Copia (2).txt - (ERRO) 
+12/12/22 11:24:46:793: [TypeError: path must be a string] 
+12/12/22 11:24:46:794: C:\Teste\teste - Copia (3).txt - (ERRO) 
+12/12/22 11:24:46:795: [TypeError: path must be a string] 
+12/12/22 11:24:46:795: C:\Teste\teste - Copia (4).txt - (ERRO) 
+12/12/22 11:24:46:796: [TypeError: path must be a string] 
+12/12/22 11:24:46:797: C:\Teste\teste - Copia (5).txt - (ERRO) 
+12/12/22 11:24:46:797: [TypeError: path must be a string] 
+12/12/22 11:24:46:798: C:\Teste\teste - Copia (6).txt - (ERRO) 
+12/12/22 11:24:46:799: [TypeError: path must be a string] 
+12/12/22 11:24:46:800: C:\Teste\teste - Copia (7).txt - (ERRO) 
+12/12/22 11:24:46:800: [TypeError: path must be a string] 
+12/12/22 11:24:46:806: C:\Teste\teste - Copia (8).txt - (ERRO) 
+12/12/22 11:24:46:808: [TypeError: path must be a string] 
+12/12/22 11:24:46:808: C:\Teste\teste - Copia (9).txt - (ERRO) 
+ 
+12/12/22 11:24:46:811: FINALIZANDO APAGAMENTOS! 
+12/12/22 11:24:46:811: EM FUNCIONAMENTO ESPERANDO PRÓXIMA VARREDURA 
+12/12/22 11:24:48:821: INICIANDO VARREDURA 
+12/12/22 11:24:48:822: PASTA: C:\Teste\ 
+12/12/22 11:24:48:825: PASTA: C:\Teste\template 
+12/12/22 11:24:48:843: VARREDURA CONCLUÍDA 
+12/12/22 11:24:48:844: 18 ARQUIVOS ENCONTRADOS PARA DELETAR 
+12/12/22 11:24:48:845: INICIANDO APAGAMENTOS DE 18 ARQUIVOS 
+ 
+12/12/22 11:24:48:849: [TypeError: path must be a string] 
+12/12/22 11:24:48:862: C:\Teste\teste - Copia (10).txt - (ERRO) 
+12/12/22 11:24:48:864: [TypeError: path must be a string] 
+12/12/22 11:24:48:866: C:\Teste\teste - Copia (11).txt - (ERRO) 
+12/12/22 11:24:48:867: [TypeError: path must be a string] 
+12/12/22 11:24:48:870: C:\Teste\teste - Copia (12).txt - (ERRO) 
+12/12/22 11:24:48:871: [TypeError: path must be a string] 
+12/12/22 11:24:48:873: C:\Teste\teste - Copia (13).txt - (ERRO) 
+12/12/22 11:24:48:875: [TypeError: path must be a string] 
+12/12/22 11:24:48:882: C:\Teste\teste - Copia (14).txt - (ERRO) 
+12/12/22 11:24:48:889: [TypeError: path must be a string] 
+12/12/22 11:24:48:890: C:\Teste\teste - Copia (15).txt - (ERRO) 
+12/12/22 11:24:48:892: [TypeError: path must be a string] 
+12/12/22 11:24:48:894: C:\Teste\teste - Copia (16).txt - (ERRO) 
+12/12/22 11:24:48:894: [TypeError: path must be a string] 
+12/12/22 11:24:48:895: C:\Teste\teste - Copia (17).txt - (ERRO) 
+12/12/22 11:24:48:899: [TypeError: path must be a string] 
+12/12/22 11:24:48:899: C:\Teste\teste - Copia (18).txt - (ERRO) 
+12/12/22 11:24:48:900: [TypeError: path must be a string] 
+12/12/22 11:24:48:900: C:\Teste\teste - Copia (19).txt - (ERRO) 
+12/12/22 11:24:48:901: [TypeError: path must be a string] 
+12/12/22 11:24:48:901: C:\Teste\teste - Copia (2).txt - (ERRO) 
+12/12/22 11:24:48:902: [TypeError: path must be a string] 
+12/12/22 11:24:48:905: C:\Teste\teste - Copia (3).txt - (ERRO) 
+12/12/22 11:24:48:906: [TypeError: path must be a string] 
+12/12/22 11:24:48:907: C:\Teste\teste - Copia (4).txt - (ERRO) 
+12/12/22 11:24:48:909: [TypeError: path must be a string] 
+12/12/22 11:24:48:911: C:\Teste\teste - Copia (5).txt - (ERRO) 
+12/12/22 11:24:48:912: [TypeError: path must be a string] 
+12/12/22 11:24:48:913: C:\Teste\teste - Copia (6).txt - (ERRO) 
+12/12/22 11:24:48:916: [TypeError: path must be a string] 
+12/12/22 11:24:48:917: C:\Teste\teste - Copia (7).txt - (ERRO) 
+12/12/22 11:24:48:918: [TypeError: path must be a string] 
+12/12/22 11:24:48:920: C:\Teste\teste - Copia (8).txt - (ERRO) 
+12/12/22 11:24:48:921: [TypeError: path must be a string] 
+12/12/22 11:24:48:922: C:\Teste\teste - Copia (9).txt - (ERRO) 
+ 
+12/12/22 11:24:48:925: FINALIZANDO APAGAMENTOS! 
+12/12/22 11:24:48:926: EM FUNCIONAMENTO ESPERANDO PRÓXIMA VARREDURA 
+12/12/22 11:24:51:048: INICIANDO VARREDURA 
+12/12/22 11:24:51:049: PASTA: C:\Teste\ 
+12/12/22 11:24:51:050: PASTA: C:\Teste\template 
+12/12/22 11:24:51:057: VARREDURA CONCLUÍDA 
+12/12/22 11:24:51:057: 18 ARQUIVOS ENCONTRADOS PARA DELETAR 
+12/12/22 11:24:51:057: INICIANDO APAGAMENTOS DE 18 ARQUIVOS 
+ 
+12/12/22 11:24:51:058: [TypeError: path must be a string] 
+12/12/22 11:24:51:059: C:\Teste\teste - Copia (10).txt - (ERRO) 
+12/12/22 11:24:51:059: [TypeError: path must be a string] 
+12/12/22 11:24:51:059: C:\Teste\teste - Copia (11).txt - (ERRO) 
+12/12/22 11:24:51:060: [TypeError: path must be a string] 
+12/12/22 11:24:51:060: C:\Teste\teste - Copia (12).txt - (ERRO) 
+12/12/22 11:24:51:061: [TypeError: path must be a string] 
+12/12/22 11:24:51:061: C:\Teste\teste - Copia (13).txt - (ERRO) 
+12/12/22 11:24:51:062: [TypeError: path must be a string] 
+12/12/22 11:24:51:062: C:\Teste\teste - Copia (14).txt - (ERRO) 
+12/12/22 11:24:51:062: [TypeError: path must be a string] 
+12/12/22 11:24:51:063: C:\Teste\teste - Copia (15).txt - (ERRO) 
+12/12/22 11:24:51:063: [TypeError: path must be a string] 
+12/12/22 11:24:51:064: C:\Teste\teste - Copia (16).txt - (ERRO) 
+12/12/22 11:24:51:064: [TypeError: path must be a string] 
+12/12/22 11:24:51:065: C:\Teste\teste - Copia (17).txt - (ERRO) 
+12/12/22 11:24:51:065: [TypeError: path must be a string] 
+12/12/22 11:24:51:065: C:\Teste\teste - Copia (18).txt - (ERRO) 
+12/12/22 11:24:51:066: [TypeError: path must be a string] 
+12/12/22 11:24:51:066: C:\Teste\teste - Copia (19).txt - (ERRO) 
+12/12/22 11:24:51:067: [TypeError: path must be a string] 
+12/12/22 11:24:51:069: C:\Teste\teste - Copia (2).txt - (ERRO) 
+12/12/22 11:24:51:069: [TypeError: path must be a string] 
+12/12/22 11:24:51:077: C:\Teste\teste - Copia (3).txt - (ERRO) 
+12/12/22 11:24:51:079: [TypeError: path must be a string] 
+12/12/22 11:24:51:081: C:\Teste\teste - Copia (4).txt - (ERRO) 
+12/12/22 11:24:51:083: [TypeError: path must be a string] 
+12/12/22 11:24:51:085: C:\Teste\teste - Copia (5).txt - (ERRO) 
+12/12/22 11:24:51:086: [TypeError: path must be a string] 
+12/12/22 11:24:51:088: C:\Teste\teste - Copia (6).txt - (ERRO) 
+12/12/22 11:24:51:099: [TypeError: path must be a string] 
+12/12/22 11:24:51:100: C:\Teste\teste - Copia (7).txt - (ERRO) 
+12/12/22 11:24:51:101: [TypeError: path must be a string] 
+12/12/22 11:24:51:101: C:\Teste\teste - Copia (8).txt - (ERRO) 
+12/12/22 11:24:51:102: [TypeError: path must be a string] 
+12/12/22 11:24:51:103: C:\Teste\teste - Copia (9).txt - (ERRO) 
+ 
+12/12/22 11:24:51:104: FINALIZANDO APAGAMENTOS! 
+12/12/22 11:24:51:104: EM FUNCIONAMENTO ESPERANDO PRÓXIMA VARREDURA 
+12/12/22 11:24:53:173: INICIANDO VARREDURA 
+12/12/22 11:24:53:174: PASTA: C:\Teste\ 
+12/12/22 11:24:53:176: PASTA: C:\Teste\template 
+12/12/22 11:24:53:186: VARREDURA CONCLUÍDA 
+12/12/22 11:24:53:187: 18 ARQUIVOS ENCONTRADOS PARA DELETAR 
+12/12/22 11:24:53:188: INICIANDO APAGAMENTOS DE 18 ARQUIVOS 
+ 
+12/12/22 11:24:53:199: [TypeError: path must be a string] 
+12/12/22 11:24:53:202: C:\Teste\teste - Copia (10).txt - (ERRO) 
+12/12/22 11:24:53:206: [TypeError: path must be a string] 
+12/12/22 11:24:53:208: C:\Teste\teste - Copia (11).txt - (ERRO) 
+12/12/22 11:24:53:210: [TypeError: path must be a string] 
+12/12/22 11:24:53:211: C:\Teste\teste - Copia (12).txt - (ERRO) 
+12/12/22 11:24:53:213: [TypeError: path must be a string] 
+12/12/22 11:24:53:215: C:\Teste\teste - Copia (13).txt - (ERRO) 
+12/12/22 11:24:53:216: [TypeError: path must be a string] 
+12/12/22 11:24:53:217: C:\Teste\teste - Copia (14).txt - (ERRO) 
+12/12/22 11:24:53:219: [TypeError: path must be a string] 
+12/12/22 11:24:53:221: C:\Teste\teste - Copia (15).txt - (ERRO) 
+12/12/22 11:24:53:222: [TypeError: path must be a string] 
+12/12/22 11:24:53:223: C:\Teste\teste - Copia (16).txt - (ERRO) 
+12/12/22 11:24:53:225: [TypeError: path must be a string] 
+12/12/22 11:24:53:226: C:\Teste\teste - Copia (17).txt - (ERRO) 
+12/12/22 11:24:53:229: [TypeError: path must be a string] 
+12/12/22 11:24:53:230: C:\Teste\teste - Copia (18).txt - (ERRO) 
+12/12/22 11:24:53:232: [TypeError: path must be a string] 
+12/12/22 11:24:53:233: C:\Teste\teste - Copia (19).txt - (ERRO) 
+12/12/22 11:24:53:235: [TypeError: path must be a string] 
+12/12/22 11:24:53:235: C:\Teste\teste - Copia (2).txt - (ERRO) 
+12/12/22 11:24:53:237: [TypeError: path must be a string] 
+12/12/22 11:24:53:238: C:\Teste\teste - Copia (3).txt - (ERRO) 
+12/12/22 11:24:53:239: [TypeError: path must be a string] 
+12/12/22 11:24:53:239: C:\Teste\teste - Copia (4).txt - (ERRO) 
+12/12/22 11:24:53:240: [TypeError: path must be a string] 
+12/12/22 11:24:53:240: C:\Teste\teste - Copia (5).txt - (ERRO) 
+12/12/22 11:24:53:241: [TypeError: path must be a string] 
+12/12/22 11:24:53:241: C:\Teste\teste - Copia (6).txt - (ERRO) 
+12/12/22 11:24:53:242: [TypeError: path must be a string] 
+12/12/22 11:24:53:242: C:\Teste\teste - Copia (7).txt - (ERRO) 
+12/12/22 11:24:53:243: [TypeError: path must be a string] 
+12/12/22 11:24:53:243: C:\Teste\teste - Copia (8).txt - (ERRO) 
+12/12/22 11:24:53:244: [TypeError: path must be a string] 
+12/12/22 11:24:53:244: C:\Teste\teste - Copia (9).txt - (ERRO) 
+ 
+12/12/22 11:24:53:245: FINALIZANDO APAGAMENTOS! 
+12/12/22 11:24:53:248: EM FUNCIONAMENTO ESPERANDO PRÓXIMA VARREDURA 
+12/12/22 11:24:55:331: INICIANDO VARREDURA 
+12/12/22 11:24:55:332: PASTA: C:\Teste\ 
+12/12/22 11:24:55:334: PASTA: C:\Teste\template 
+12/12/22 11:24:55:348: VARREDURA CONCLUÍDA 
+12/12/22 11:24:55:349: 18 ARQUIVOS ENCONTRADOS PARA DELETAR 
+12/12/22 11:24:55:350: INICIANDO APAGAMENTOS DE 18 ARQUIVOS 
+ 
+12/12/22 11:24:55:353: [TypeError: path must be a string] 
+12/12/22 11:24:55:354: C:\Teste\teste - Copia (10).txt - (ERRO) 
+12/12/22 11:24:55:359: [TypeError: path must be a string] 
+12/12/22 11:24:55:360: C:\Teste\teste - Copia (11).txt - (ERRO) 
+12/12/22 11:24:55:371: [TypeError: path must be a string] 
+12/12/22 11:24:55:372: C:\Teste\teste - Copia (12).txt - (ERRO) 
+12/12/22 11:24:55:376: [TypeError: path must be a string] 
+12/12/22 11:24:55:377: C:\Teste\teste - Copia (13).txt - (ERRO) 
+12/12/22 11:24:55:381: [TypeError: path must be a string] 
+12/12/22 11:24:55:382: C:\Teste\teste - Copia (14).txt - (ERRO) 
+12/12/22 11:24:55:385: [TypeError: path must be a string] 
+12/12/22 11:24:55:387: C:\Teste\teste - Copia (15).txt - (ERRO) 
+12/12/22 11:24:55:389: [TypeError: path must be a string] 
+12/12/22 11:24:55:389: C:\Teste\teste - Copia (16).txt - (ERRO) 
+12/12/22 11:24:55:393: [TypeError: path must be a string] 
+12/12/22 11:24:55:397: C:\Teste\teste - Copia (17).txt - (ERRO) 
+12/12/22 11:24:55:400: [TypeError: path must be a string] 
+12/12/22 11:24:55:401: C:\Teste\teste - Copia (18).txt - (ERRO) 
+12/12/22 11:24:55:403: [TypeError: path must be a string] 
+12/12/22 11:24:55:404: C:\Teste\teste - Copia (19).txt - (ERRO) 
+12/12/22 11:24:55:404: [TypeError: path must be a string] 
+12/12/22 11:24:55:404: C:\Teste\teste - Copia (2).txt - (ERRO) 
+12/12/22 11:24:55:405: [TypeError: path must be a string] 
+12/12/22 11:24:55:406: C:\Teste\teste - Copia (3).txt - (ERRO) 
+12/12/22 11:24:55:407: [TypeError: path must be a string] 
+12/12/22 11:24:55:408: C:\Teste\teste - Copia (4).txt - (ERRO) 
+12/12/22 11:24:55:408: [TypeError: path must be a string] 
+12/12/22 11:24:55:409: C:\Teste\teste - Copia (5).txt - (ERRO) 
+12/12/22 11:24:55:410: [TypeError: path must be a string] 
+12/12/22 11:24:55:410: C:\Teste\teste - Copia (6).txt - (ERRO) 
+12/12/22 11:24:55:410: [TypeError: path must be a string] 
+12/12/22 11:24:55:411: C:\Teste\teste - Copia (7).txt - (ERRO) 
+12/12/22 11:24:55:411: [TypeError: path must be a string] 
+12/12/22 11:24:55:412: C:\Teste\teste - Copia (8).txt - (ERRO) 
+12/12/22 11:24:55:412: [TypeError: path must be a string] 
+12/12/22 11:24:55:413: C:\Teste\teste - Copia (9).txt - (ERRO) 
+ 
+12/12/22 11:24:55:418: FINALIZANDO APAGAMENTOS! 
+12/12/22 11:24:55:420: EM FUNCIONAMENTO ESPERANDO PRÓXIMA VARREDURA 
+12/12/22 11:24:57:514: INICIANDO VARREDURA 
+12/12/22 11:24:57:516: PASTA: C:\Teste\ 
+12/12/22 11:24:57:519: PASTA: C:\Teste\template 
+12/12/22 11:24:57:530: VARREDURA CONCLUÍDA 
+12/12/22 11:24:57:531: 18 ARQUIVOS ENCONTRADOS PARA DELETAR 
+12/12/22 11:24:57:532: INICIANDO APAGAMENTOS DE 18 ARQUIVOS 
+ 
+12/12/22 11:24:57:535: [TypeError: path must be a string] 
+12/12/22 11:24:57:537: C:\Teste\teste - Copia (10).txt - (ERRO) 
+12/12/22 11:24:57:538: [TypeError: path must be a string] 
+12/12/22 11:24:57:539: C:\Teste\teste - Copia (11).txt - (ERRO) 
+12/12/22 11:24:57:540: [TypeError: path must be a string] 
+12/12/22 11:24:57:541: C:\Teste\teste - Copia (12).txt - (ERRO) 
+12/12/22 11:24:57:542: [TypeError: path must be a string] 
+12/12/22 11:24:57:544: C:\Teste\teste - Copia (13).txt - (ERRO) 
+12/12/22 11:24:57:547: [TypeError: path must be a string] 
+12/12/22 11:24:57:548: C:\Teste\teste - Copia (14).txt - (ERRO) 
+12/12/22 11:24:57:560: [TypeError: path must be a string] 
+12/12/22 11:24:57:561: C:\Teste\teste - Copia (15).txt - (ERRO) 
+12/12/22 11:24:57:563: [TypeError: path must be a string] 
+12/12/22 11:24:57:564: C:\Teste\teste - Copia (16).txt - (ERRO) 
+12/12/22 11:24:57:568: [TypeError: path must be a string] 
+12/12/22 11:24:57:569: C:\Teste\teste - Copia (17).txt - (ERRO) 
+12/12/22 11:24:57:571: [TypeError: path must be a string] 
+12/12/22 11:24:57:572: C:\Teste\teste - Copia (18).txt - (ERRO) 
+12/12/22 11:24:57:574: [TypeError: path must be a string] 
+12/12/22 11:24:57:576: C:\Teste\teste - Copia (19).txt - (ERRO) 
+12/12/22 11:24:57:577: [TypeError: path must be a string] 
+12/12/22 11:24:57:580: C:\Teste\teste - Copia (2).txt - (ERRO) 
+12/12/22 11:24:57:582: [TypeError: path must be a string] 
+12/12/22 11:24:57:585: C:\Teste\teste - Copia (3).txt - (ERRO) 
+12/12/22 11:24:57:587: [TypeError: path must be a string] 
+12/12/22 11:24:57:589: C:\Teste\teste - Copia (4).txt - (ERRO) 
+12/12/22 11:24:57:593: [TypeError: path must be a string] 
+12/12/22 11:24:57:593: C:\Teste\teste - Copia (5).txt - (ERRO) 
+12/12/22 11:24:57:594: [TypeError: path must be a string] 
+12/12/22 11:24:57:595: C:\Teste\teste - Copia (6).txt - (ERRO) 
+12/12/22 11:24:57:596: [TypeError: path must be a string] 
+12/12/22 11:24:57:596: C:\Teste\teste - Copia (7).txt - (ERRO) 
+12/12/22 11:24:57:597: [TypeError: path must be a string] 
+12/12/22 11:24:57:598: C:\Teste\teste - Copia (8).txt - (ERRO) 
+12/12/22 11:24:57:598: [TypeError: path must be a string] 
+12/12/22 11:24:57:598: C:\Teste\teste - Copia (9).txt - (ERRO) 
+ 
+12/12/22 11:24:57:603: FINALIZANDO APAGAMENTOS! 
+12/12/22 11:24:57:604: EM FUNCIONAMENTO ESPERANDO PRÓXIMA VARREDURA 
+12/12/22 11:24:59:706: INICIANDO VARREDURA 
+12/12/22 11:24:59:707: PASTA: C:\Teste\ 
+12/12/22 11:24:59:708: PASTA: C:\Teste\template 
+12/12/22 11:24:59:713: VARREDURA CONCLUÍDA 
+12/12/22 11:24:59:713: 18 ARQUIVOS ENCONTRADOS PARA DELETAR 
+12/12/22 11:24:59:714: INICIANDO APAGAMENTOS DE 18 ARQUIVOS 
+ 
+12/12/22 11:24:59:715: [TypeError: path must be a string] 
+12/12/22 11:24:59:715: C:\Teste\teste - Copia (10).txt - (ERRO) 
+12/12/22 11:24:59:716: [TypeError: path must be a string] 
+12/12/22 11:24:59:716: C:\Teste\teste - Copia (11).txt - (ERRO) 
+12/12/22 11:24:59:717: [TypeError: path must be a string] 
+12/12/22 11:24:59:717: C:\Teste\teste - Copia (12).txt - (ERRO) 
+12/12/22 11:24:59:718: [TypeError: path must be a string] 
+12/12/22 11:24:59:718: C:\Teste\teste - Copia (13).txt - (ERRO) 
+12/12/22 11:24:59:721: [TypeError: path must be a string] 
+12/12/22 11:24:59:723: C:\Teste\teste - Copia (14).txt - (ERRO) 
+12/12/22 11:24:59:725: [TypeError: path must be a string] 
+12/12/22 11:24:59:726: C:\Teste\teste - Copia (15).txt - (ERRO) 
+12/12/22 11:24:59:729: [TypeError: path must be a string] 
+12/12/22 11:24:59:730: C:\Teste\teste - Copia (16).txt - (ERRO) 
+12/12/22 11:24:59:732: [TypeError: path must be a string] 
+12/12/22 11:24:59:733: C:\Teste\teste - Copia (17).txt - (ERRO) 
+12/12/22 11:24:59:734: [TypeError: path must be a string] 
+12/12/22 11:24:59:734: C:\Teste\teste - Copia (18).txt - (ERRO) 
+12/12/22 11:24:59:736: [TypeError: path must be a string] 
+12/12/22 11:24:59:736: C:\Teste\teste - Copia (19).txt - (ERRO) 
+12/12/22 11:24:59:737: [TypeError: path must be a string] 
+12/12/22 11:24:59:738: C:\Teste\teste - Copia (2).txt - (ERRO) 
+12/12/22 11:24:59:739: [TypeError: path must be a string] 
+12/12/22 11:24:59:740: C:\Teste\teste - Copia (3).txt - (ERRO) 
+12/12/22 11:24:59:741: [TypeError: path must be a string] 
+12/12/22 11:24:59:742: C:\Teste\teste - Copia (4).txt - (ERRO) 
+12/12/22 11:24:59:745: [TypeError: path must be a string] 
+12/12/22 11:24:59:746: C:\Teste\teste - Copia (5).txt - (ERRO) 
+12/12/22 11:24:59:747: [TypeError: path must be a string] 
+12/12/22 11:24:59:748: C:\Teste\teste - Copia (6).txt - (ERRO) 
+12/12/22 11:24:59:749: [TypeError: path must be a string] 
+12/12/22 11:24:59:750: C:\Teste\teste - Copia (7).txt - (ERRO) 
+12/12/22 11:24:59:751: [TypeError: path must be a string] 
+12/12/22 11:24:59:752: C:\Teste\teste - Copia (8).txt - (ERRO) 
+12/12/22 11:24:59:753: [TypeError: path must be a string] 
+12/12/22 11:24:59:753: C:\Teste\teste - Copia (9).txt - (ERRO) 
+ 
+12/12/22 11:24:59:755: FINALIZANDO APAGAMENTOS! 
+12/12/22 11:24:59:756: EM FUNCIONAMENTO ESPERANDO PRÓXIMA VARREDURA 
+12/12/22 11:25:01:814: INICIANDO VARREDURA 
+12/12/22 11:25:01:816: PASTA: C:\Teste\ 
+12/12/22 11:25:01:820: PASTA: C:\Teste\template 
+12/12/22 11:25:01:873: VARREDURA CONCLUÍDA 
+12/12/22 11:25:01:874: 18 ARQUIVOS ENCONTRADOS PARA DELETAR 
+12/12/22 11:25:01:875: INICIANDO APAGAMENTOS DE 18 ARQUIVOS 
+ 
+12/12/22 11:25:01:876: [TypeError: path must be a string] 
+12/12/22 11:25:01:877: C:\Teste\teste - Copia (10).txt - (ERRO) 
+12/12/22 11:25:01:878: [TypeError: path must be a string] 
+12/12/22 11:25:01:879: C:\Teste\teste - Copia (11).txt - (ERRO) 
+12/12/22 11:25:01:897: [TypeError: path must be a string] 
+12/12/22 11:25:01:909: C:\Teste\teste - Copia (12).txt - (ERRO) 
+12/12/22 11:25:01:912: [TypeError: path must be a string] 
+12/12/22 11:25:01:912: C:\Teste\teste - Copia (13).txt - (ERRO) 
+12/12/22 11:25:01:917: [TypeError: path must be a string] 
+12/12/22 11:25:01:918: C:\Teste\teste - Copia (14).txt - (ERRO) 
+12/12/22 11:25:01:919: [TypeError: path must be a string] 
+12/12/22 11:25:01:919: C:\Teste\teste - Copia (15).txt - (ERRO) 
+12/12/22 11:25:01:920: [TypeError: path must be a string] 
+12/12/22 11:25:01:920: C:\Teste\teste - Copia (16).txt - (ERRO) 
+12/12/22 11:25:01:921: [TypeError: path must be a string] 
+12/12/22 11:25:01:921: C:\Teste\teste - Copia (17).txt - (ERRO) 
+12/12/22 11:25:01:922: [TypeError: path must be a string] 
+12/12/22 11:25:01:922: C:\Teste\teste - Copia (18).txt - (ERRO) 
+12/12/22 11:25:01:922: [TypeError: path must be a string] 
+12/12/22 11:25:01:923: C:\Teste\teste - Copia (19).txt - (ERRO) 
+12/12/22 11:25:01:923: [TypeError: path must be a string] 
+12/12/22 11:25:01:924: C:\Teste\teste - Copia (2).txt - (ERRO) 
+12/12/22 11:25:01:931: [TypeError: path must be a string] 
+12/12/22 11:25:01:932: C:\Teste\teste - Copia (3).txt - (ERRO) 
+12/12/22 11:25:01:933: [TypeError: path must be a string] 
+12/12/22 11:25:01:934: C:\Teste\teste - Copia (4).txt - (ERRO) 
+12/12/22 11:25:01:936: [TypeError: path must be a string] 
+12/12/22 11:25:01:937: C:\Teste\teste - Copia (5).txt - (ERRO) 
+12/12/22 11:25:01:939: [TypeError: path must be a string] 
+12/12/22 11:25:01:940: C:\Teste\teste - Copia (6).txt - (ERRO) 
+12/12/22 11:25:01:943: [TypeError: path must be a string] 
+12/12/22 11:25:01:945: C:\Teste\teste - Copia (7).txt - (ERRO) 
+12/12/22 11:25:01:947: [TypeError: path must be a string] 
+12/12/22 11:25:01:949: C:\Teste\teste - Copia (8).txt - (ERRO) 
+12/12/22 11:25:01:950: [TypeError: path must be a string] 
+12/12/22 11:25:01:952: C:\Teste\teste - Copia (9).txt - (ERRO) 
+ 
+12/12/22 11:25:01:954: FINALIZANDO APAGAMENTOS! 
+12/12/22 11:25:01:955: EM FUNCIONAMENTO ESPERANDO PRÓXIMA VARREDURA 

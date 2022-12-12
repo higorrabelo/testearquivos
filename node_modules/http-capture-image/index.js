@@ -1,0 +1,9 @@
+// Author Deivid de Oliveira Souza
+
+const Recorder = require('./helpers/recorder')
+const FileHandler = require('./helpers/fileHandler')
+
+module.exports = {
+  Recorder: Recorder,
+  FileHandler: FileHandler,
+}

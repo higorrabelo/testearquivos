@@ -1,0 +1,12 @@
+{
+  "name": "delete_files",
+  "version": "1.0.0",
+  "description": "apaga arquivos antigos a partir de diretórios raiz",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deivid de Oliveira",
+  "license": "ISC"
+}
